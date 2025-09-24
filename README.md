@@ -7,7 +7,7 @@
 <br>
 
 ## 🎥 프로젝트 소개
-[![Video Label](https://youtu.be/Hx4QYD4sLv0/0.jpg)](https://youtu.be/Hx4QYD4sLv0)
+[![Video Label](https://img.youtube.com/vi/Hx4QYD4sLv0/0.jpg)](https://youtu.be/Hx4QYD4sLv0)
   ➡ 영상 클릭 시, youtube 재생
   
 **vF1**은 **도로 환경 요소 인식**과 물리적 **장애물 제거**를 수행하는 **디지털 트윈 기반 자율주행 시스템**입니다.
